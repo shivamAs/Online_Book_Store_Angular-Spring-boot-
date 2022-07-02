@@ -19,6 +19,10 @@ Backend ----> Spring boot
 For running backend 
 
 1 . Open Favourite IDE ( eclipse , Intellige , STS ..........)
+
+
 2 . Import backend project
+
 3 . Make changes in Application.properties according to your own Db configurations
+
 4 . Run as spring boot app
